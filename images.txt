@@ -4,5 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
 --platform=linux/arm64 rabbitmq:4.1.2-management
 --platform=linux/amd64 rabbitmq:4.1.2-management

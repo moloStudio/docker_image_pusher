@@ -13,3 +13,8 @@ logstash:9.0.3
 kibana:9.0.3
 rabbitmq:4.1.2-management
 cooderl/wewe-rss:latest
+minio/minio
+tomcat
+nacos/nacos-server
+nacos/nacos-server:2.2.0
+jpomdocker/jpom

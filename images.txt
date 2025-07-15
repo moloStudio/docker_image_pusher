@@ -5,9 +5,11 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 rabbitmq:4.1.2-management
---platform=linux/amd64 rabbitmq:4.1.2-management
+#--platform=linux/arm64 rabbitmq:4.1.2-management
+#--platform=linux/amd64 rabbitmq:4.1.2-management
 
---platform=linux/amd64 elasticsearch:9.0.3
---platform=linux/amd64 logstash:9.0.3
---platform=linux/amd64 kibana:9.0.3
+elasticsearch:9.0.3
+logstash:9.0.3
+kibana:9.0.3
+rabbitmq:4.1.2-management
+cooderl/wewe-rss:latest

@@ -17,3 +17,8 @@ minio/minio
 tomcat
 nacos/nacos-server
 jpomdocker/jpom
+
+
+ubuntu:20.04
+mysql:8.0.32
+nginx:alpine

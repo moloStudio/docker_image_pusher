@@ -24,3 +24,6 @@ mysql:8.0.32
 nginx:alpine
 
 openjdk:17-jdk-alpine
+
+
+zhayujie/chatgpt-on-wechat

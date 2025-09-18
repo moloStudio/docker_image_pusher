@@ -27,4 +27,4 @@ openjdk:17-jdk-alpine
 
 
 zhayujie/chatgpt-on-wechat
-redis-manager
+minio/minio:RELEASE.2021-04-22T15-44-28Z

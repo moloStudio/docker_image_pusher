@@ -28,3 +28,5 @@ openjdk:17-jdk-alpine
 
 zhayujie/chatgpt-on-wechat
 minio/minio:RELEASE.2021-04-22T15-44-28Z
+
+mongo:4.4.6

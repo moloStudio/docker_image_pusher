@@ -8,26 +8,27 @@
 #--platform=linux/arm64 rabbitmq:4.1.2-management
 #--platform=linux/amd64 rabbitmq:4.1.2-management
 
-elasticsearch:9.0.3
-logstash:9.0.3
-kibana:9.0.3
-rabbitmq:4.1.2-management
-cooderl/wewe-rss:latest
-minio/minio
-tomcat
-nacos/nacos-server
-jpomdocker/jpom
+#elasticsearch:9.0.3
+#logstash:9.0.3
+#kibana:9.0.3
+#rabbitmq:4.1.2-management
+#cooderl/wewe-rss:latest
+#minio/minio
+#tomcat
+#nacos/nacos-server
+#jpomdocker/jpom
 
 
-ubuntu:20.04
-mysql:8.0.32
-nginx:alpine
+#ubuntu:20.04
+#mysql:8.0.32
+#nginx:alpine
 
-openjdk:17-jdk-alpine
+#openjdk:17-jdk-alpine
 
 
-zhayujie/chatgpt-on-wechat
-minio/minio:RELEASE.2021-04-22T15-44-28Z
+#zhayujie/chatgpt-on-wechat
+#minio/minio:RELEASE.2021-04-22T15-44-28Z
 
-mongo:4.4.6
-openjdk:21-jdk-alpine
+#mongo:4.4.6
+#openjdk:21-jdk-alpine
+amazoncorretto:21

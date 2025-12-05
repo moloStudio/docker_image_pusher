@@ -33,6 +33,8 @@
 #openjdk:21-jdk-alpine
 #amazoncorretto:21
 #elasticsearch:7.17.28
-kibana:7.17.28
-logstash:7.17.28
-elastic/filebeat:7.17.28
+#kibana:7.17.28
+#logstash:7.17.28
+#elastic/filebeat:7.17.28
+canal/canal-server:v1.1.8
+canal/canal-admin:v1.1.8

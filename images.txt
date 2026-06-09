@@ -39,4 +39,5 @@
 #canal/canal-server:v1.1.8
 #canal/canal-admin:v1.1.8
 #nginx:1.29.4
-ghcr.io/ggerganov/llama.cpp:full
+#ghcr.io/ggerganov/llama.cpp:full
+xhofe/alist:latest
